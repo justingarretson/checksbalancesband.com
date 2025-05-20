@@ -12,8 +12,8 @@
     <title>Checks and Balances</title>
     
     <!-- Favicon -->
-    <link rel="icon" href="img/core-img/favicon.ico">
-
+    <link rel="icon" href="img/core-img/C&B BW CircleLogo-SVG.svg">
+    <link href="https://vjs.zencdn.net/8.22.0/video-js.css" rel="stylesheet" />
     <!-- Stylesheet -->
     <link rel="stylesheet" href="style.css">
 
@@ -42,14 +42,14 @@
             <!-- Single Hero Slide -->
             <div class="single-hero-slide d-flex align-items-center justify-content-center">
                 <!-- Slide Img -->
-                <div class="slide-img bg-img" style="background-image: url(img/stage.jpg);"></div>
+                <div class="slide-img bg-img" style="background-image: url('img/TheBand BW.png');"></div>
                 <!-- Slide Content -->
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
-                                <h6 data-animation="fadeInUp" data-delay="100ms">Support the Constitution</h6>
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Freedom of Speech <span>Freedom of Speech</span></h2>
+                                <h6 data-animation="fadeInUp" data-delay="300ms">Support the Constitution</h6>
+                                <h2 data-animation="fadeInUp" data-delay="600ms">Freedom of Speech <span>Freedom of Speech</span></h2>
                             </div>
                         </div>
                     </div>
@@ -59,14 +59,14 @@
             <!-- Single Hero Slide -->
             <div class="single-hero-slide d-flex align-items-center justify-content-center">
                 <!-- Slide Img -->
-                <div class="slide-img bg-img" style="background-image: url(img/stage-2.jpg);"></div>
+                <div class="slide-img bg-img" style="background-image: url('img/Rachel&Joel.png');"></div>
                 <!-- Slide Content -->
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
-                                <h6 data-animation="fadeInUp" data-delay="100ms">Defend Your Rights</h6>
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Tag Line<span>Tag Line</span></h2>
+                                <h6 data-animation="fadeInUp" data-delay="300ms">Defend Your Rights</h6>
+                                <h2 data-animation="fadeInUp" data-delay="600ms">Tag Line<span>Tag Line</span></h2>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
 
     <!-- ##### Latest Releases Area Start ##### -->
     <section class="latest-albums-area section-padding-100">
-        <div class="container">
+        <div class="container" id="Events">
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading style-2">
@@ -90,7 +90,9 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-9">
                     <div class="ablums-text text-center mb-70">
-                        <p>Nam tristique ex vel magna tincidunt, ut porta nisl finibus. Vivamus eu dolor eu quam varius rutrum. Fusce nec justo id sem aliquam fringilla nec non lacus. Suspendisse eget lobortis nisi, ac cursus odio. Vivamus nibh velit, rutrum at ipsum ac, dignissim iaculis ante. Donec in velit non elit pulvinar pellentesque et non eros.</p>
+                        <p>Every Sunday at the Henry Country Courthouse. Lots to say here, 
+                            and we will populate this when we have more free time! In the mean time
+                            check out some of the songs we play at the rally. </p>
                     </div>
                 </div>
             </div>
@@ -100,58 +102,37 @@
                     <div class="albums-slideshow owl-carousel">
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a1.jpg" alt="">
+                            <img src="img/Joel&Eric BW.png" alt="">
                             <div class="album-info">
-                                <a href="#">
-                                    <h5>Around the Bend</h5>
+                                <a href="audio/pay me my money down-Master.mp3">
+                                    <h5>Pay Me My Money Down</h5>
                                 </a>
-                                <p>Single</p>
+                                <p>Traditional Folk Song</p>
                             </div>
                         </div>
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a2.jpg" alt="">
+                            <img src="img/Joel&Eric BW.png" alt="">
                             <div class="album-info">
-                                <a href="#">
-                                    <h5>Baleful Man</h5>
+                                <a href="audio/rocking in the free world.mp3">
+                                    <h5>Rocking In The Free World</h5>
                                 </a>
-                                <p>Single</p>
+                                <p>Neil Young</p>
                             </div>
                         </div>
 
                         <!-- Single Album -->
                         <div class="single-album">
-                            <img src="img/bg-img/a3.jpg" alt="">
+                            <img src="img/Joel&Eric BW.png" alt="">
                             <div class="album-info">
-                                <a href="#">
-                                    <h5>Marrow Deep</h5>
+                                <a href="audio/Something to Believe In-Master.mp3">
+                                    <h5>Something To Believe In</h5>
                                 </a>
-                                <p>Single</p>
+                                <p>Poison</p>
                             </div>
                         </div>
 
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a4.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>Devil Moon</h5>
-                                </a>
-                                <p>Single</p>
-                            </div>
-                        </div>
-
-                        <!-- Single Album -->
-                        <div class="single-album">
-                            <img src="img/bg-img/a5.jpg" alt="">
-                            <div class="album-info">
-                                <a href="#">
-                                    <h5>Hold On</h5>
-                                </a>
-                                <p>Single</p>
-                            </div>
-                        </div>
 
                     </div>
                 </div>
@@ -162,45 +143,61 @@
 
 
     <!-- ##### Featured Artist Area Start ##### -->
-    <section class="featured-artist-area section-padding-100 bg-img bg-overlay bg-fixed" style="background-image: url(img/bg-img/bg-4.jpg);">
-        <div class="container">
+    <section class="featured-artist-area section-padding-100 bg-img bg-overlay bg-fixed" style="background-image: url(img/SVT-Blur.JPG);">
+        <div class="container" id="Media">
             <div class="row align-items-end">
-                <div class="col-12 col-md-5 col-lg-4">
-                    <div class="featured-artist-thumb">
-                        <img src="img/bg-img/fa.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-12 col-md-7 col-lg-8">
+            <div class="col-12 col-md-7 col-lg-8">
                     <div class="featured-artist-content">
                         <!-- Section Heading -->
                         <div class="section-heading white text-left mb-30">
-                            <p>See what’s new</p>
-                            <h2>Featured Single</h2>
+                            <p>What Is This About?</p>
+                            <h2>Checks and Balances</h2>
                         </div>
-                        <p>Nam tristique ex vel magna tincidunt, ut porta nisl finibus. Vivamus eu dolor eu quam varius rutrum. Fusce nec justo id sem aliquam fringilla nec non lacus. Suspendisse eget lobortis nisi, ac cursus odio. Vivamus nibh velit, rutrum at ipsum ac, dignissim iaculis ante. Donec in velit non elit pulvinar pellentesque et non eros.</p>
-                        <div class="song-play-area">
-                            <div class="song-name">
-                                <p>01. Main Hit Song</p>
-                            </div>
-                            <audio preload="auto" controls>
-                                <source src="audio/dummy-audio.mp3">
-                            </audio>
-                        </div>
+                        <p>Songs to sooth the soul during trying times for those who remember the reasons
+                        we have a Constitution.
+                        </p>
+                        
                     </div>
                 </div>
+                <div class="col-12 col-md-5 col-lg-4">
+                    <div class="featured-artist-thumb">
+                    <video
+                        id="my-video"
+                        class="video-js"
+                        controls
+                        preload="auto"
+                        width="640"
+                        height="400"
+                        poster="img/core-img/C&B logo - white -transparent background.png"
+                        data-setup="{}"
+                    >
+                        <source src="audio/promo_video.mp4" type="video/mp4" />                        
+                        <p class="vjs-no-js">
+                        To view this video please enable JavaScript, and consider upgrading to a
+                        web browser that
+                        <a href="https://videojs.com/html5-video-support/" target="_blank"
+                            >supports HTML5 video</a
+                        >
+                        </p>
+                    </video>
+
+                    <script src="https://vjs.zencdn.net/8.22.0/video.min.js"></script>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </section>
     <!-- ##### Featured Artist Area End ##### -->
 
     <!-- ##### Contact Area Start ##### -->
-    <section class="contact-area section-padding-100 bg-img bg-overlay bg-fixed has-bg-img" style="background-image: url(img/bg-img/bg-2.jpg);">
-        <div class="container">
+    <section class="contact-area section-padding-100 bg-img bg-overlay bg-fixed has-bg-img" style="background-image: url(img/Crash-Moon.JPG);">
+        <div class="container" id="Contact">
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading white wow fadeInUp" data-wow-delay="100ms">
-                        <p>See what’s new</p>
-                        <h2>Get In Touch</h2>
+                        <p>Get In Touch</p>
+                        <h2>CONTACT US</h2>
                     </div>
                 </div>
             </div>

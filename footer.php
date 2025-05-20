@@ -10,9 +10,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     <div class="footer-nav">
                         <ul>
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="albums-store.php">Media</a></li>
-                            <li><a href="event.php">Events</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="#Events">Events</a></li>
+                            <li><a href="#Media">Media</a></li>   
+                            <li><a href="#Contact">Contact</a></li>
                         </ul>
                     </div>
                 </div>

@@ -7,7 +7,7 @@
                     <!-- Menu -->
                     <nav class="classy-navbar justify-content-between" id="oneMusicNav">
                        <!-- Nav brand -->                        
-                        <a href="index.php" class="nav-brand"><img src="img/LukeFoxTXTLogo.png" alt=""></a>
+                        <a href="index.php" class="nav-brand"><img src="img/core-img/C&B logo - white -transparent background.png" alt=""></a>
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
@@ -25,10 +25,9 @@
                            <div class="classynav">
                                 <ul>
                                     <li><a href="index.php">Home</a></li>
-                                    <li><a href="albums-store.php">Media</a></li>                                    
-                                    <li><a href="event.php">Events</a></li>
-                                    <!--<li><a href="blog.php">News</a></li>-->
-                                    <li><a href="contact.php">Contact</a></li>
+                                    <li><a href="#Events">Events</a></li>
+                                    <li><a href="#Media">Media</a></li>   
+                                    <li><a href="#Contact">Contact</a></li>
                                 </ul>                            
                                 
                             </div>
