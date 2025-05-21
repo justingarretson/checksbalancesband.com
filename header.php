@@ -7,7 +7,7 @@
                     <!-- Menu -->
                     <nav class="classy-navbar justify-content-between" id="oneMusicNav">
                        <!-- Nav brand -->                        
-                        <a href="index.php" class="nav-brand"><img src="img/core-img/C&B logo - white -transparent background.png" alt=""></a>
+                        <a href="index.php" class="nav-brand"><img style="height:76px" src="img/core-img/C&B logo - white -transparent background.png" alt=""></a>
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">

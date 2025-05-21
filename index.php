@@ -49,7 +49,7 @@
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
                                 <h6 data-animation="fadeInUp" data-delay="300ms">Support the Constitution</h6>
-                                <h2 data-animation="fadeInUp" data-delay="600ms">Freedom of Speech <span>Freedom of Speech</span></h2>
+                                <h2 data-animation="fadeInUp" data-delay="600ms">YOUR FREEDOM OF SPEECH <span>YOUR FREEDOM OF SPEECH</span></h2>
                             </div>
                         </div>
                     </div>
@@ -65,8 +65,8 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="hero-slides-content text-center">
-                                <h6 data-animation="fadeInUp" data-delay="300ms">Defend Your Rights</h6>
-                                <h2 data-animation="fadeInUp" data-delay="600ms">Tag Line<span>Tag Line</span></h2>
+                                <h6 data-animation="fadeInUp" data-delay="300ms">You Are Not Alone</h6>
+                                <h2 data-animation="fadeInUp" data-delay="600ms">DEFEND YOUR RIGHTS<span>DEFEND YOUR RIGHTS</span></h2>
                             </div>
                         </div>
                     </div>
@@ -82,14 +82,24 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-heading style-2">
-                        <p>See what’s happening</p>
-                        <h2>At The Courthouse</h2>
+                        <h6>"The last check on power after the checks and balances of government have failed are the people, you and me. 
+                            It’s in the union of people around a common set of values now that’s all that stands between a democracy and
+                             authoritarianism. At the end of the day, all we’ve got is each other."</h6>
+                        <h4>Bruce Springsteen</h4>
+                        
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-12">
+                    <img style="margin-bottom:50px" src="img/header.jpg" alt="">
+                </div>
+            </div>
+            
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-9">
                     <div class="ablums-text text-center mb-70">
+                        <h3>At The Courthouse</h3>
                         <p>Every Sunday at the Henry Country Courthouse. Lots to say here, 
                             and we will populate this when we have more free time! In the mean time
                             check out some of the songs we play at the rally. </p>
@@ -145,28 +155,16 @@
     <!-- ##### Featured Artist Area Start ##### -->
     <section class="featured-artist-area section-padding-100 bg-img bg-overlay bg-fixed" style="background-image: url(img/SVT-Blur.JPG);">
         <div class="container" id="Media">
-            <div class="row align-items-end">
-            <div class="col-12 col-md-7 col-lg-8">
-                    <div class="featured-artist-content">
-                        <!-- Section Heading -->
-                        <div class="section-heading white text-left mb-30">
-                            <p>What Is This About?</p>
-                            <h2>Checks and Balances</h2>
-                        </div>
-                        <p>Songs to sooth the soul during trying times for those who remember the reasons
-                        we have a Constitution.
-                        </p>
-                        
-                    </div>
-                </div>
-                <div class="col-12 col-md-5 col-lg-4">
-                    <div class="featured-artist-thumb">
+           
+            <div class="row ">
+                <div class="col-12 col-md-5 col-lg-4 ">
+                    <div class="featured-artist-thumb mr-50">
                     <video
                         id="my-video"
                         class="video-js"
                         controls
                         preload="auto"
-                        width="640"
+                        width="360"
                         height="400"
                         poster="img/core-img/C&B logo - white -transparent background.png"
                         data-setup="{}"
@@ -184,6 +182,22 @@
                     <script src="https://vjs.zencdn.net/8.22.0/video.min.js"></script>
                     </div>
                 </div>
+            <div class="col-12 col-md-5 col-lg-4 ml-50">
+                <div class="featured-artist-content ">
+                        <!-- Section Heading -->
+                        <div class="section-heading white text-left mb-30">
+                            <p>What Is This About?</p>
+                            <h2>Checks and Balances</h2>
+                        </div>
+                        <p>Songs to sooth the soul during trying times for those who remember the reasons
+                        we have a Constitution.
+                        </p>
+                        
+                    </div>
+                
+                    
+                </div>
+                
                 
             </div>
         </div>
