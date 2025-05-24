@@ -110,40 +110,60 @@
             <div class="row">
                 <div class="col-12">
                     <div class="albums-slideshow owl-carousel">
-                        <!-- Single Album -->
+                        <!-- Single Pic -->
                         <div class="single-album">
-                            <img src="img/Joel&Eric BW.png" alt="">
+                            
                             <div class="album-info">
-                                <a href="audio/pay me my money down-Master.mp3">
-                                    <h5>Pay Me My Money Down</h5>
+                                <a href="img/Roger-and-Eric.jpg">
+                                    <img src="img/Roger-and-Eric.jpg" alt="">
                                 </a>
-                                <p>Traditional Folk Song</p>
+                                <p>Roger and Eric</p>
+                            </div>
+                        </div>
+                        
+                        <!-- Single Pic -->
+                        <div class="single-album">
+                            
+                            <div class="album-info">
+                                <a href="img/Steph-and-Martha(web).jpg">
+                                    <img src="img/Steph-and-Martha(web).jpg" alt="">
+                                </a>
+                                <p>Steph and Martha</p>
                             </div>
                         </div>
 
-                        <!-- Single Album -->
+                        <!-- Single Pic -->
                         <div class="single-album">
-                            <img src="img/Joel&Eric BW.png" alt="">
+                            
                             <div class="album-info">
-                                <a href="audio/rocking in the free world.mp3">
-                                    <h5>Rocking In The Free World</h5>
+                                <a href="img/Sue-Ann-(web).jpg">
+                                    <img src="img/Sue-Ann-(web).jpg" alt="">
                                 </a>
-                                <p>Neil Young</p>
+                                <p>Sue-Ann</p>
                             </div>
                         </div>
 
-                        <!-- Single Album -->
+                         <!-- Single Pic -->
                         <div class="single-album">
-                            <img src="img/Joel&Eric BW.png" alt="">
+                            
                             <div class="album-info">
-                                <a href="audio/Something to Believe In-Master.mp3">
-                                    <h5>Something To Believe In</h5>
+                                <a href="img/Eric.jpg">
+                                    <img src="img/Eric.jpg" alt="">
                                 </a>
-                                <p>Poison</p>
+                                <p>Eric</p>
                             </div>
                         </div>
 
-
+                         <!-- Single Pic -->
+                        <div class="single-album">
+                            
+                            <div class="album-info">
+                                <a href="img/Joel&Eric BW.png">
+                                    <img src="img/Joel&Eric BW.png" alt="">
+                                </a>
+                                <p>Joel and Eric</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -162,8 +182,8 @@
                             class="video-js"
                             controls
                             preload="auto"
-                            width="400"
-                            height="400"
+                            width="100%"
+                            
                             poster="img/core-img/C&B logo - white -transparent background.png"
                             data-setup="{}"
                         >
