@@ -37,7 +37,7 @@ if (array_key_exists('email', $_POST)) {
         $name = '';
     }
     
-    $to = 'justingarretson@gmail.com';
+    $to = 'joel@checksbalancesband.com';
     
     //Make sure the address they provided is valid before trying to use it
     if (PHPMailer::validateAddress($_POST['email'])) {

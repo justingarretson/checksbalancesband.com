@@ -155,51 +155,46 @@
     <!-- ##### Featured Artist Area Start ##### -->
     <section class="featured-artist-area section-padding-100 bg-img bg-overlay bg-fixed" style="background-image: url(img/SVT-Blur.JPG);">
         <div class="container" id="Media">
-           
-            <div class="row ">
-                <div class="col-12 col-md-5 col-lg-4 ">
-                    <div class="featured-artist-thumb mr-50">
-                    <video
-                        id="my-video"
-                        class="video-js"
-                        controls
-                        preload="auto"
-                        width="360"
-                        height="400"
-                        poster="img/core-img/C&B logo - white -transparent background.png"
-                        data-setup="{}"
-                    >
-                        <source src="audio/promo_video.mp4" type="video/mp4" />                        
-                        <p class="vjs-no-js">
-                        To view this video please enable JavaScript, and consider upgrading to a
-                        web browser that
-                        <a href="https://videojs.com/html5-video-support/" target="_blank"
-                            >supports HTML5 video</a
+            <div class="row col-12">
+                    <div class="featured-artist-thumb col-lg mr-50">
+                        <video
+                            id="my-video"
+                            class="video-js"
+                            controls
+                            preload="auto"
+                            width="400"
+                            height="400"
+                            poster="img/core-img/C&B logo - white -transparent background.png"
+                            data-setup="{}"
                         >
-                        </p>
-                    </video>
+                            <source src="audio/promo_video.mp4" type="video/mp4" />                        
+                            <p class="vjs-no-js">
+                            To view this video please enable JavaScript, and consider upgrading to a
+                            web browser that
+                            <a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                            </p>
+                        </video>
 
-                    <script src="https://vjs.zencdn.net/8.22.0/video.min.js"></script>
+                        <script src="https://vjs.zencdn.net/8.22.0/video.min.js"></script>
                     </div>
-                </div>
-            <div class="col-12 col-md-5 col-lg-4 ml-50">
-                <div class="featured-artist-content ">
+                    <div class="featured-artist-content col-lg">
                         <!-- Section Heading -->
                         <div class="section-heading white text-left mb-30">
                             <p>What Is This About?</p>
                             <h2>Checks and Balances</h2>
                         </div>
-                        <p>Songs to sooth the soul during trying times for those who remember the reasons
-                        we have a Constitution.
+                        <p>The Checks & Balances Band is a newly formed band in SE Iowa performing folk and folk/rock music spanning over 70 years; 
+                            songs that have inspired and influenced several generations.  The songs we sing are timeless and as relevant today 
+                            as when they were first performed including such artists as Woody Guthrie, Pete Seeger, Bob Dylan, The Weavers, 
+                            Kingston Trio, Peter, Paul, and Mary, Buffalo Springfield, CSNY, Neil Young, Canned Heat, Youngbloods, Poison, 
+                            Steve Earle, Bruce Springsteen, and a few of our own, just to name a few.  Our selection of songs are not 
+                            necessarily aimed against any one political party.  We are all Americans chasing the American dream of life, 
+                            liberty, and the pursuit of happiness, supporting the Constitution, justice for all, in a long struggle for 
+                            democracy with a system of checks and balances. Isn't that what everyone wants?
                         </p>
                         
                     </div>
-                
-                    
                 </div>
-                
-                
-            </div>
         </div>
     </section>
     <!-- ##### Featured Artist Area End ##### -->
